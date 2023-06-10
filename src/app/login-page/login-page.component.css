@@ -1,0 +1,32 @@
+.authentication-card {
+    width: 30%;
+    left: 300px;
+}
+
+.authentication-card-container {
+    min-height: 100vh;
+    flex-direction: column;
+    box-sizing: border-box;
+    display: flex;
+    place-content: stretch center;
+    justify-content: flex-start !important;
+    background-color: #c37525;
+    padding-top: 300px;
+}
+
+.title {
+    position: relative;
+    margin-bottom: 50px;
+    left: 300px;
+}
+
+.label {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.desc {
+    font-size: 30px;
+    color: azure;
+}
